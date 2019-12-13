@@ -3,17 +3,10 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;//For scene management function
 using UnityEngine;
 
-public class Settings : MonoBehaviour
+public class startGameGameboard : MonoBehaviour
 {
-
     public void sceneLoader(int sceneIndex)
     {
         SceneManager.LoadScene(sceneIndex);
     }
-
-    public void quitGame()
-    {
-        Application.Quit();
-    }
-  
 }

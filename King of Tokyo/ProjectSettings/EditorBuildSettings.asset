@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NumberOfPlayers.unity
     guid: 0f5b37bfc8f927c4887c5477b1a7258e
+  - enabled: 1
+    path: Assets/Scenes/GameBoard.unity
+    guid: ee258df92c8046540ac39fc3267c933f
   m_configObjects: {}
